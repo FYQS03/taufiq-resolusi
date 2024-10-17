@@ -2,5 +2,6 @@ RENCANA PERKULIAHAN TAUFQ
 Beljar serius
 *fisika
 *mbl
-membuat project
 join komunitas ilkom
+*hacker
+mobile dev

@@ -5,3 +5,4 @@ Beljar serius
 membuat project
 join komunitas ilkom
 *web dev 
+cp
